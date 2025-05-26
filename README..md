@@ -1,3 +1,3 @@
-# demo
+# Demo
 
-Just testing
+Just testing!
